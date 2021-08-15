@@ -1,16 +1,10 @@
 # flutter_numero_primo
 
-A new Flutter project.
+Juan Collaguazo
 
-## Getting Started
+## Numero Primo
 
-This project is a starting point for a Flutter application.
+- El numero primo se genera por un numero randomico primo del 1 - 100 generando los numeros primos
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/38759831/129467195-d6a3f4f9-2c04-4c34-8b35-125d9f14cf2a.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
